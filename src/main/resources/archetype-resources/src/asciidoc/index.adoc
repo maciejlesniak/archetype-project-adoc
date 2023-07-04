@@ -1,0 +1,6 @@
+== $groupId:$artifactId:$version
+
+* GroupId: $groupId
+* ArtifactId: $artifactId
+* Version: $version
+
